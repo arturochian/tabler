@@ -1,0 +1,11 @@
+Package: tabler
+Type: Package
+Title: Draws tables in the plotting window
+Version: 1.0
+Date: 2015-02-06
+Author: Alathea D Letaw <alathea@zoology.ubc.ca>
+Maintainer: Alathea D Letaw <alathea@zoology.ubc.ca>
+Description: Draw tables in the plotting window so they wont break when you convert your R-markdown document to word.
+License: MIT + file LICENSE
+Suggests: knitr
+VignetteBuilder: knitr
