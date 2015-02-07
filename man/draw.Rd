@@ -14,7 +14,7 @@ Draws a very simple table inside your plotting window based on data in a data fr
 adapted from \code{demo(\link{plotmath})}
 }
 \details{
-The \code{tabler} \code{draw} will simply plot your table in a plotting window.
+The \code{tabler} \code{draw} fucntion will simply plot your table in a plotting window.
 This is mainly helpful in conjunction with knitr/pandoc.  It will help you convert tables
 to word documents without anything exploding or leaking off the page.  You can control
 the table size by adjusting \code{fig.height} in the R-markdown code chunk.
